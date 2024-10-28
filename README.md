@@ -1,4 +1,4 @@
-Run `build_site.py` to convert the files in the `template` directory into
+Run `build_site.py` to convert the files in the `templates` directory into
 complete HTML files in the `public` directory, and run `local_server.py` to
 browse the site locally at http://localhost:5000
 
